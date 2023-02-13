@@ -13,9 +13,10 @@ img{
 
 h1{
     text-align: center;
-    background: #A3C7D6;
+    background: #BFACE2;
     padding: 20px;
-    font-family: 'Comfortaa', cursive;
+    font-family: 'Quattrocento Sans', sans-serif;
+    color: #0e0f0f;
 }
 h2{
     position: absolute;
@@ -36,7 +37,7 @@ p{
 
 .encabezado{
     width: 100%;
-    background: #256D85;
+    background: #00337C;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -49,6 +50,7 @@ ul{
 a{
     text-decoration: none;
     font-family: 'Quattrocento Sans', sans-serif;
+    color:#00337C;
 }
 /* --------- */
 .lista{
@@ -90,12 +92,12 @@ a{
     top: 0;
 }
 .slide li a{
-    color: white;
+    color: #00337C;
     padding: 10px 20px;
     display: block;
 }
 .slide li a:hover{
-    background: #DFF6FF;
+    background: #00337C;
 }
 
 #boton{
@@ -308,4 +310,3 @@ a{
         width: 100%;
     }
 }
-
